@@ -1,0 +1,74 @@
+{
+  "employee_list": [
+    {
+      "id": "101",
+      "name": "Suresh Shelke",
+      "email": "",
+      "gender" : "Male",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "grade": "",
+      "client": ""
+    },
+    {
+      "id": "102",
+      "name": "Sam Jean",
+      "email": "",
+      "gender" : "Male",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "grade": "",
+      "client": ""
+    },
+    {
+      "id": "103",
+      "name": "Sachin More",
+      "email": "",
+      "gender" : "Male",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "grade": "",
+      "client": ""
+    },
+    {
+      "id": "104",
+      "name": "Ramesh Sonwane",
+      "email": "",
+      "gender" : "Male",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "grade": "",
+      "client": ""
+    },
+    {
+      "id": "105",
+      "name": "Monika John",
+      "email": "",
+      "gender" : "Female",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "grade": "",
+      "client": ""
+    },
+    {
+      "id": "106",
+      "name": "Kiran Kolhe",
+      "email": "",
+      "gender" : "Male",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "grade": "",
+      "client": ""
+    },
+    {
+      "id": "107",
+      "name": "Ganesh Gadhave",
+      "email": "m",
+      "gender" : "male",
+      "contact": "",
+      "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "grade": "",
+      "client": ""
+    }
+  ]
+}
